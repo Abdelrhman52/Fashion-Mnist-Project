@@ -92,9 +92,9 @@ Linear(H2 → 10)   ← Output logits (Softmax applied by CrossEntropyLoss)
 | Activation | ReLU | Tanh |
 | Hidden layers | [128, 64] | [256, 128] |
 | Learning rate | 0.001 | 0.0005 |
-| Test Accuracy | *run notebook* | *run notebook* |
-| Test Loss | *run notebook* | *run notebook* |
-| Training time | *run notebook* | *run notebook* |
+| Test Accuracy | *89.10%* | *88.70%* |
+| Test Loss | *0.3080* | *0.3169* |
+| Training time | *339.7s* | *533.4s* |
 
 > Run the notebook to populate results. They are also saved to `results/experiment_comparison.csv`.
 
