@@ -129,15 +129,6 @@ pip install -r requirements.txt
 jupyter notebook fashion_mnist_classification.ipynb
 ```
 
-### Option 3: Python Script
-
-```bash
-pip install -r requirements.txt
-python fashion_mnist_train.py
-```
-
----
-
 ## Generated Output Files
 
 All results are saved to `results/`:
